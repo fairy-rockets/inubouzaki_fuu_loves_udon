@@ -1,8 +1,13 @@
 # 犬吠埼風はうどんを愛している
 
-<img width="600" src="./cover-min.jpg">
+## エディション
 
-## おはなし
+ - [PDF](./犬吠埼風は、うどんを愛している。.pdf)
+ - [一太郎](./ichitaro)
+
+## Markdown版
+
+<a href="./cover.jpg"><img width="600" src="./cover-min.jpg"></a>
 
 「ちょっと！うどん屋なんてどこにもないじゃない！最高に美味しいうどん屋
 があるんじゃなかったの！？」
