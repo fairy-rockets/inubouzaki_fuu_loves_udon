@@ -13,8 +13,6 @@
 
  - [PDF](./犬吠埼風は、うどんを愛している。.pdf)
  - [一太郎](./ichitaro)
- - [Pixiv](https://www.pixiv.net/novel/show.php?id=13960669)
-   - [表紙絵](https://www.pixiv.net/artworks/85219938)
 
 ## Markdown版
 
